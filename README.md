@@ -11,6 +11,11 @@ This project focuses on building a machine learning model to detect and classify
 - **Best Accuracy Achieved**: ~40%
 - **Deployment Status**: Deployed
 
+## Dataset
+
+Obtained dataset from Kaagle website:
+https://www.kaggle.com/datasets/ziya07/power-system-faults-dataset
+
 ## Key Observations
 
 - Model shows limited accuracy (~40%) due to likely low feature relevance or data imbalance.
